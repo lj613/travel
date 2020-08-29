@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "swiperList": [
+        {
+          "id": "01",
+          "imgUrl": "/api/images/swiper1.jpeg"
+        },
+        {
+          "id": "02",
+          "imgUrl": "/api/images/swiper2.jpeg"
+        },
+        {
+          "id": "03",
+          "imgUrl": "/api/images/swiper3.jpeg"
+        }
+      ],
+      "iconsListL": [
+        {
+          "id": "01",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+          "title": "酒店"
+        },
+        {
+          "id": "02",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+          "title": "机票"
+        },
+        {
+          "id": "03",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+          "title": "火车票"
+        },
+        {
+          "id": "04",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+          "title": "度假"
+        },
+        {
+          "id": "05",
+          "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+          "title": "景点门票"
+        }
+      ],
+      "iconsListM": [
+        {
+          "id": "01",
+          "imgUrl": "https://picbed.qunarzz.com/f5e5770393d759578962e53ee67798c8.png",
+          "title": "海外酒店"
+        },
+        {
+          "id": "02",
+          "imgUrl": "https://picbed.qunarzz.com/a36d2288f19e54562338f4d8ef986288.png",
+          "title": "低价机票"
+        },
+        {
+          "id": "03",
+          "imgUrl": "https://picbed.qunarzz.com/377db8cb2143aebf01869c9baad3d325.png",
+          "title": "汽车票船票"
+        },
+        {
+          "id": "04",
+          "imgUrl": "https://picbed.qunarzz.com/ae617a31e0bd5803d76918b817f6d942.png",
+          "title": "自由行"
+        },
+        {
+          "id": "05",
+          "imgUrl": "https://picbed.qunarzz.com/1316dc82d1ce6259686d5a68880e5a9d.png",
+          "title": "攻略"
+        },
+        {
+          "id": "06",
+          "imgUrl": "https://picbed.qunarzz.com/01d2f57f920666364197a850dab859a8.png",
+          "title": "民宿客栈"
+        },
+        {
+          "id": "07",
+          "imgUrl": "https://picbed.qunarzz.com/83af731055e121a3251690b225327b56.png",
+          "title": "专车自驾"
+        },
+        {
+          "id": "08",
+          "imgUrl": "https://picbed.qunarzz.com/5b6737be49ca243072ca614f07803b83.png",
+          "title": "赚钱·信用卡"
+        },
+        {
+          "id": "09",
+          "imgUrl": "https://picbed.qunarzz.com/1e107321f5396ea4994cd832232ecf8a.png",
+          "title": "旅游团购"
+        },
+        {
+          "id": "10",
+          "imgUrl": "https://picbed.qunarzz.com/c65b3bb7571a6bd62df669213e44b84d.png",
+          "title": "一日游"
+        },
+        {
+          "id": "11",
+          "imgUrl": "https://picbed.qunarzz.com/f6bb08a239ce1b038204120a8d1e4669.png",
+          "title": "特惠酒店"
+        },
+        {
+          "id": "12",
+          "imgUrl": "https://picbed.qunarzz.com/3a08f360e958ccb2b947049387873ace.png",
+          "title": "借钱"
+        },
+        {
+          "id": "13",
+          "imgUrl": "https://picbed.qunarzz.com/19b4f6d2fabd617789fa5aad65b249da.png",
+          "title": "白金卡"
+        },
+        {
+          "id": "14",
+          "imgUrl": "https://img1.qunarzz.com/order/comp/2007/23/734c3c62d2adce02.png",
+          "title": "行程设计"
+        },
+        {
+          "id": "15",
+          "imgUrl": "https://picbed.qunarzz.com/25e3b9f17a21a6e0113c57a23ffccde4.png",
+          "title": "周边短途"
+        }
+      ],
+      "onSaleList": [
+        {
+          "id": "01",
+          "imgUrl": "//imgs.qunarzz.com/p/p66/201304/17/384810d022dd28f793835fbb.jpg_256x160_6a7ec251.jpg",
+          "content": "含往返飞机票(含税)+9晚住宿",
+          "mark": "¥",
+          "price": "4334"
+        },
+        {
+          "id": "02",
+          "imgUrl": "//imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+          "content": "含往返飞机票(含税)+4晚住宿",
+          "mark": "¥",
+          "price": "2240"
+        },
+        {
+          "id": "03",
+          "imgUrl": "//imgs.qunarzz.com/sight/p0/1606/4f/4f9c7e985e811bae90.water.jpg_256x160_d77c01a6.jpg",
+          "content": "含往返火车票+4晚住宿",
+          "mark": "¥",
+          "price": "750"
+        },
+        {
+          "id": "04",
+          "imgUrl": "//imgs.qunarzz.com/p/p56/1809/c4/90ba238a586bf802.jpg_256x160_aec92188.jpg",
+          "content": "含往返飞机票(含税)+5晚住宿",
+          "mark": "¥",
+          "price": "2580"
+        }
+      ],
+      "scenicList": [
+        {
+          "id": "01",
+          "imgUrl": "//imgs.qunarzz.com/sight/p0/1507/8d/8d1817185ad3f395.img.jpg_256x144_6df03aa6.jpg",
+          "titel": "武隆天生三桥风景区",
+          "detail": "变形金刚大战黄金甲",
+          "mark": "¥",
+          "price": "105"
+        },
+        {
+          "id": "02",
+          "imgUrl": "//imgs.qunarzz.com/sight/p0/1910/a7/a7863ded4e64b6faa3.img.jpg_256x144_a4434c8e.jpg",
+          "titel": "洪崖洞",
+          "detail": "老重庆的真实写照，极具巴渝传统特色",
+          "mark": "¥",
+          "price": "25"
+        },
+        {
+          "id": "03",
+          "imgUrl": "//imgs.qunarzz.com/sight/p0/201305/31/1e09178fd22121bbc8d65eac.jpg_256x144_8ab6fe83.jpg",
+          "titel": "丰都鬼城",
+          "detail": "鬼城寻鬼，阴朝地府走一遭",
+          "mark": "¥",
+          "price": "85"
+        },
+        {
+          "id": "04",
+          "imgUrl": "//imgs.qunarzz.com/sight/p0/201308/06/144bcaa27bd8641cc8d65eac.jpg_256x144_ddecc83a.jpg",
+          "titel": "龙水峡地缝 ",
+          "detail": "天坑地缝不分家",
+          "mark": "¥",
+          "price": "100"
+        }
+      ],
+      "strategyList": [
+        {
+          "id": "01",
+          "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7d9b233c71cad13ded0013f9c9cec635.jpg",
+          "content": "驾一叶扁舟，寻瓯江往事"
+        },
+        {
+          "id": "02",
+          "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/fd16ccffb2e2376ff370bda3bebebd71.jpg",
+          "content": "不负嵊夏好时光，泗乎太安逸"
+        },
+        {
+          "id": "03",
+          "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/c2ae82fcc9fa11fa253e5919c49bcfbf.jpg",
+          "content": "探访日本，一部家庭旅行画册"
+        },
+        {
+          "id": "04",
+          "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5a11974656794b4715156501be10c1b7.jpg",
+          "content": "厦门，带娃出行与幸福同行"
+        }
+      ]
+    }
+  ]
+}
